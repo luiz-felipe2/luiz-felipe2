@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/luiz-felipe-31112a98/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-felipe2&theme=cobalt&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-felipe2&layout=compact&theme=cobalt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-felipe2&theme=dark&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-felipe2&layout=compact&theme=dark" />
 </div>
   
   ##
