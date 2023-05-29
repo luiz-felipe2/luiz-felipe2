@@ -25,6 +25,6 @@
   
   ## Certificates / Certificados
   <div style="display: inline_block"> 
-   <img align="center" height="40" widith="60" src="https://theme.zdassets.com/theme_assets/9633455/ecf228e8c15da1a8bd07f574e675a0ac59330968.png" />
-  <img align="center" height="30" widith="40" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+   <img align="center" height="40" widith="60" src="" />
+  <img align="center" height="30" widith="40" src="" />
   </div>
