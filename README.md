@@ -25,6 +25,6 @@
   
   ## Certificates / Certificados
   <div style="display: inline_block"> 
-   <img align="center" height="40" widith="60" src="" />
-  <img align="center" height="30" widith="40" src="" />
+   //<img align="center" height="40" widith="60" src="" />
+  //<img align="center" height="30" widith="40" src="" />
   </div>
