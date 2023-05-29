@@ -23,8 +23,4 @@
   <img align="center" height="30" widith="40" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div>
   
-  ## Certificates / Certificados
-  <div style="display: inline_block"> 
-   //<img align="center" height="40" widith="60" src="" />
-  //<img align="center" height="30" widith="40" src="" />
-  </div>
+
